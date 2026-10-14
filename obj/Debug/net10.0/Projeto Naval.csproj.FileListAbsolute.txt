@@ -1,0 +1,15 @@
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.AssemblyInfoInputs.cache
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.AssemblyInfo.cs
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.csproj.CoreCompileInputs.cache
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.sourcelink.json
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\bin\Debug\net10.0\Projeto Naval.exe
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\bin\Debug\net10.0\Projeto Naval.deps.json
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\bin\Debug\net10.0\Projeto Naval.runtimeconfig.json
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\bin\Debug\net10.0\Projeto Naval.dll
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\bin\Debug\net10.0\Projeto Naval.pdb
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.dll
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\refint\Projeto Naval.dll
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.pdb
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\Projeto Naval.genruntimeconfig.cache
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\TÉCNICAS DE PROGRAMAÇÃO\Projeto Naval\obj\Debug\net10.0\ref\Projeto Naval.dll

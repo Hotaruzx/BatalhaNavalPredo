@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Projeto Naval/1.0.0": {
+        "runtime": {
+          "Projeto Naval.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto Naval/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
